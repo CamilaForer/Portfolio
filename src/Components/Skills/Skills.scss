@@ -1,0 +1,15 @@
+.title{
+  color: #EDD06C;
+  font-family: 'PT Mono';
+}
+.text-center {
+  padding-top: 7%;
+  font-size: clamp(1rem, 3vw, 2rem);
+}
+.images img{
+  width: 40%;
+  cursor: pointer;
+}
+.images img:hover{
+  color: aqua;
+}

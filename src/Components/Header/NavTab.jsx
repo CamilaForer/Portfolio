@@ -13,8 +13,8 @@ const NavTab = () => {
               <img src="./src/assets/logo.png" alt="Logo" />
             </Nav.Link>
             <Nav.Link href="/Profile">Perfil</Nav.Link>
-            <Nav.Link href="/Profile">Skills</Nav.Link>
-            <Nav.Link href="/Profile">Proyectos</Nav.Link>
+            <Nav.Link href="/Skills">Skills</Nav.Link>
+            <Nav.Link href="#Projects">Proyectos</Nav.Link>
             <Nav.Link href="/Profile">Contactos</Nav.Link>
           </Nav>
           <Navbar.Brand>
