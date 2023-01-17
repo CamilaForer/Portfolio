@@ -30,11 +30,11 @@ const Projects = () => {
         <SwiperSlide><a href="https://camilaforer.github.io/Tetris/"target="_blank" ><img src="../assets/TETRIS.png" alt="Tetris" /></a></SwiperSlide>
         <SwiperSlide><a href="https://camilaforer.github.io/BOG003-social-network/src/#/initial"target="_blank" ><img src="../assets/DEL.png" alt="Deliciuos" /></a></SwiperSlide>
         <SwiperSlide><a href="https://camilaforer.github.io/BOG003-data-lovers/src/index.html"target="_blank" ><img src="../assets/LOL.png" alt="" /></a></SwiperSlide>
-        <SwiperSlide>Slide 5</SwiperSlide>
-        <SwiperSlide>Slide 6</SwiperSlide>
-        <SwiperSlide>Slide 7</SwiperSlide>
+        <SwiperSlide><a href="https://camilaforer.github.io/SabujCha/"target="_blank" ><img src="../assets/Sab.png" alt="" /></a></SwiperSlide>
+        <SwiperSlide><a href="https://camilaforer.github.io/Dashboard-fundacion-Semillas/src/diplomado.html"target="_blank" ><img src="../assets/Dash.png" alt="" /></a></SwiperSlide>
+        {/* <SwiperSlide>Slide 7</SwiperSlide>
         <SwiperSlide>Slide 8</SwiperSlide>
-        <SwiperSlide>Slide 9</SwiperSlide>
+        <SwiperSlide>Slide 9</SwiperSlide> */}
         
       </Swiper>
     </div>
