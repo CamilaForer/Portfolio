@@ -1,10 +1,25 @@
-.navbar{
-  font-family: 'PT Mono';
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "PT Mono";
   width: 100%;
 }
-.navbar img{
+.navbar img {
   width: 20%;
 }
-.navbar a{
-  color: #EDD06C; 
+.navbar a {
+  color: #edd06c;
+}
+.menu {
+  display: none;
+}
+@media (max-width: 768px) {
+  .menu {
+    width: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    margin-left: 0;
+  }
 }

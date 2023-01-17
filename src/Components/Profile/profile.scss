@@ -6,6 +6,10 @@
    padding-top: 15%;
    font-size: clamp(1rem, 3vw, 2rem);
 }
+.info{
+  font-family: 'PT Mono';
+  font-size: clamp(0.5rem, 3vw, 2rem);
+}
 .col img{
 width: 90%;
 }
@@ -16,7 +20,7 @@ width: 90%;
 }
 svg {
     display: block;
-    font: 6em 'Montserrat';
+    font: 6em 'PT Mono';
     width: 760px;
     height: 200px;
     margin: 0 auto;
