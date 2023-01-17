@@ -27,16 +27,16 @@ svg {
     stroke-dasharray: 6% 29%;
     stroke-width: 5px;
     stroke-dashoffset: 0%;
-    animation: stroke-offset 5.5s infinite linear;
+    animation: stroke-offset 7.5s infinite linear;
 }
 
 .text-copy:nth-child(1){
-	stroke: #4D163D;
+	stroke: #ffffff;
 	animation-delay: -1;
 }
 
 .text-copy:nth-child(2){
-	stroke: #77104f;
+	stroke: #ffffff;
 	animation-delay: -2s;
 }
 

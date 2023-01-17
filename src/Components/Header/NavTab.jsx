@@ -19,7 +19,7 @@ const NavTab = () => {
           </Nav>
           <Navbar.Brand>
             <a href="#login">
-              <img src="./src/assets/Github.png" alt="Github" />
+              <img src="../src/assets/Github.png" alt="Github" />
             </a>
             <a href="#login">
               <img src="./src/assets/linkedIn.png" alt="LinkedIn" />

@@ -9,7 +9,7 @@ const Profile = () => {
         <svg viewBox="0 0 960 300">
           <symbol id="s-text">
             <text textAnchor="middle" x="50%" y="70%">
-             Camila Forero
+             CAMILA FORERO
             </text>
           </symbol>
           <g className="g-ants">
@@ -27,10 +27,7 @@ const Profile = () => {
             <img src="./src/assets/bitmoji.png" alt="" />
           </Col>
           <Col>
-            ¡Hola! Yo soy Camila Forero Lorem ipsum, dolor sit amet consectetur
-            adipisicing elit. Delectus commodi et aspernatur possimus hic autem
-            tempore vel. Ea ex quibusdam, corrupti dolorem voluptates a iusto,
-            pariatur, accusantium expedita sed natus.
+            ¡Hola! Yo soy Camila Forero, me he dedicado a diferentes tareas que me han llevado a descubrir mi pasión por aprender a crear experiencias. Ahora por medio del código, encontré la manera de plasmar mis ideas y mi lado artístico, incentivando los sentidos.
           </Col>
         </Row>
       </Container>
