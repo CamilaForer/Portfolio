@@ -10,7 +10,7 @@ const NavTab = () => {
         <Container>
           <Nav>
             <Nav.Link>
-              <img src="./src/assets/logo.png" alt="Logo" />
+              <img src="../assets/logo.png" alt="Logo" />
             </Nav.Link>
             <Nav.Link href="/Profile">Perfil</Nav.Link>
             <Nav.Link href="/Skills">Skills</Nav.Link>
@@ -19,10 +19,10 @@ const NavTab = () => {
           </Nav>
           <Navbar.Brand>
             <a href="#login">
-              <img src="../src/assets/Github.png" alt="Github" />
+              <img src="../assets/Github.png" alt="Github" />
             </a>
             <a href="#login">
-              <img src="./src/assets/linkedIn.png" alt="LinkedIn" />
+              <img src="../assets/linkedIn.png" alt="LinkedIn" />
             </a>
           </Navbar.Brand>
         </Container>

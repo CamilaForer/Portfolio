@@ -11,10 +11,10 @@ const Projects = () => {
         onSlideChange={() => console.log("slide change")}
         onSwiper={(swiper) => console.log(swiper)}
       >
-        <SwiperSlide><img src="./src/assets/DA.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="./src/assets/DA.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="./src/assets/DA.png" alt="" /></SwiperSlide>
-        <SwiperSlide><img src="./src/assets/DA.png" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="../assets/DA.png" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="../assets/DA.png" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="../assets/DA.png" alt="" /></SwiperSlide>
+        <SwiperSlide><img src="../assets/DA.png" alt="" /></SwiperSlide>
       </Swiper>
     </div>
   );
