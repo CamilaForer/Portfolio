@@ -24,7 +24,7 @@ const Profile = () => {
       <Container className="text-center">
         <Row>
           <Col>
-            <img src="./src/assets/bitmoji.png" alt="" />
+            <img src="../assets/bitmoji.png" alt="" />
           </Col>
           <Col>
             ¡Hola! Yo soy Camila Forero, me he dedicado a diferentes tareas que me han llevado a descubrir mi pasión por aprender a crear experiencias. Ahora por medio del código, encontré la manera de plasmar mis ideas y mi lado artístico, incentivando los sentidos.
