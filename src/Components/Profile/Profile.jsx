@@ -27,7 +27,7 @@ const Profile = () => {
             <img src="../assets/bitmoji.png" alt="" />
           </Col>
           <Col className="info">
-            ¡Hola! Yo soy Camila Forero, me he dedicado a diferentes tareas que me han llevado a descubrir mi pasión por aprender a crear experiencias. Ahora por medio del código, encontré la manera de plasmar mis ideas y mi lado artístico.
+            ¡Hola! Yo soy Camila Forero, me he dedicado a diferentes tareas que me han llevado a descubrir con el código la manera de plasmar mis ideas y mi lado creativo.
           </Col>
         </Row>
       </Container>

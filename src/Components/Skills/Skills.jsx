@@ -11,8 +11,8 @@ const Skills = () => {
           <Col><img src="../assets/CSS.png" alt="" /></Col>
           <Col><img src="../assets/JS.png" alt="" /></Col>
           <Col><img src="../assets/REACT.png" alt="" /></Col>
-          <Col><img src="../assets/TRELLO.png" alt="" /></Col>
-          <Col><img src="../assets/FIGMA.png" alt="" /></Col>
+          <Col><img src="../assets/mongodb.png" alt="" /></Col>
+          <Col><img src="../assets/mysql.png" alt="" /></Col>
         </Row>
       </Container>
       </div>
